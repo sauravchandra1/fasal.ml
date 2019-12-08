@@ -1,0 +1,166 @@
+State,District,Rabi1,Rabi2,Kharif1
+Uttar Pradesh,Agra,Wheat,Potato,Bajra
+Uttar Pradesh,Aligarh,Potato,Wheat,Sugarcane
+Uttar Pradesh,Allahabad,Wheat,Potato,Rice
+Uttar Pradesh,Amethi,Wheat,Potato,Rice
+Uttar Pradesh,Amroha,Wheat,Potato,Sugarcane
+Uttar Pradesh,Auraiya,Wheat,Potato,Rice
+Uttar Pradesh,Azamgarh,Wheat,Potato,Sugarcane
+Uttar Pradesh,Badaun,Wheat,Potato,Rice
+Uttar Pradesh,Baghpat,Wheat,Potato,Sugarcane
+Uttar Pradesh,Bahraich,Wheat,Masoor,Sugarcane
+Uttar Pradesh,Ballia,Wheat,Potato,Rice
+Uttar Pradesh,Balrampur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Banda,Wheat,Gram,Rice
+Uttar Pradesh,Barelly,Wheat,Potato,Sugarcane
+Uttar Pradesh,Basti,Wheat,Potato,Sugarcane
+Uttar Pradesh,Bijnor,Wheat,Potato,Sugarcane
+Uttar Pradesh,Bulandshahr,Wheat,Potato,Sugarcane
+Uttar Pradesh,Chandauli,Wheat,Potato,Rice
+Uttar Pradesh,Chitrakoot,Wheat,Gram,Sugarcane
+Uttar Pradesh,Deoria,Wheat,Potato,Sugarcane
+Uttar Pradesh,Etah,Wheat,Potato,Maize
+Uttar Pradesh,Etawah,Potato,Wheat,Rice
+Uttar Pradesh,Faizabad,Wheat,Potato,Sugarcane
+Uttar Pradesh,Farrukhabad,Potato,Wheat,Sugarcane
+Uttar Pradesh,Fatehpur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Firozabad,Potato,Wheat,Bajra
+Uttar Pradesh,Ghaziabad,Wheat,Potato,Sugarcane
+Uttar Pradesh,Ghazipur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Gonda,Wheat,Potato,Sugarcane
+Uttar Pradesh,Gorakhpur,Wheat,Potato,Rice
+Uttar Pradesh,Hamirpur,Wheat,Gram,Sugarcane
+Uttar Pradesh,Hapur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Hardor,Wheat,Potato,Sugarcane
+Uttar Pradesh,Hathras,Potato,Wheat,Bajra
+Uttar Pradesh,Jalaun,Wheat,Peans & Beans,Sugarcane
+Uttar Pradesh,Jaunpur,Wheat,Peans & Beans,Sugarcane
+Uttar Pradesh,Jhansi,Wheat,Peans & Beans,Groundnut
+Uttar Pradesh,Kannauj,Potato,Wheat,Maize
+Uttar Pradesh,Kasganj,Wheat,Potato,Sugarcane
+Uttar Pradesh,Kaushambi,Wheat,Potato,Sugarcane
+Uttar Pradesh,Kheri,Wheat,Potato,Sugarcane
+Uttar Pradesh,Kushinagar,Wheat,Potato,Sugarcane
+Uttar Pradesh,Lalitpur,Wheat,Peans & Beans,Urad
+Uttar Pradesh,Lucknow,Wheat,Potato,Rice
+Uttar Pradesh,Maharajganj,Wheat,Potato,Sugarcane
+Uttar Pradesh,Mahoba,Wheat,Peans & Beans,Sugarcane
+Uttar Pradesh,Mainpuri,Potato,Wheat,Rice
+Uttar Pradesh,Mathura,Wheat,Potato,Rice
+Uttar Pradesh,Mau,Wheat,Potato,Sugarcane
+Uttar Pradesh,Meerut,Wheat,Potato,Sugarcane
+Uttar Pradesh,Mirzapur,Wheat,Potato,Rice
+Uttar Pradesh,Moradabad,Wheat,Potato,Sugarcane
+Uttar Pradesh,Muzaffarnagr,Wheat,Potato,Sugarcane
+Uttar Pradesh,Pillibhit,Wheat,Potato,Sugarcane
+Uttar Pradesh,Pratapgarh,Wheat,Potato,Rice
+Uttar Pradesh,Raebarelli,Wheat,Potato,Sugarcane
+Uttar Pradesh,Rampur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Saharanpur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Sambhai,Potato,Wheat,Sugarcane
+Uttar Pradesh,Shahjahanpur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Shamli,Wheat,Potato,Sugarcane
+Uttar Pradesh,Shravasti,Wheat,Masoor,Sugarcane
+Uttar Pradesh,Siddharthnagar,Wheat,Potato,Rice
+Uttar Pradesh,Sitapur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Sonbhadra,Wheat,Potato,Rice
+Uttar Pradesh,Sultanpur,Wheat,Potato,Sugarcane
+Uttar Pradesh,Unnao,Wheat,Potato,Rice
+Uttar Pradesh,Varanasi,Wheat,Potato,Sugarcane
+Gujarat,Ahmedabad,Wheat,Gram,Cotton 
+Gujarat,Amreli,Onion ,Wheat,Cotton 
+Gujarat,Anand,Wheat,Tobacco,Rice
+Gujarat,Aravalli,Wheat,Gram,Cotton 
+Gujarat,Banaskantha,Wheat,Mustard & Rapeseed,Castor Seed
+Gujarat,Bharuch,Wheat,Jowar,Cotton 
+Gujarat,Bhavnagar,Onion ,Wheat,Cotton 
+Gujarat,Botad,Onion ,Wheat,Cotton 
+Gujarat,Dahod,Onion ,Gram,Maize
+Gujarat,Dang,Onion ,Wheat,Rice
+Gujarat,Gandhinagar,Wheat,Mustard & Rapeseed,Cotton 
+Gujarat,Gir Somnath,Onion ,Gram,Cotton 
+Gujarat,Jamnagar,Onion ,Gram,Castor Seed
+Gujarat,Junagadh,Wheat,Onion,Groundnut
+Gujarat,Kachchh,Wheat,Mustard & Rapeseed,Cotton 
+Gujarat,Kheda,Wheat,Tobacco,Rice
+Gujarat,Mahisagar,Wheat,Onion,Rice
+Gujarat,Mehsana,Wheat,Mustard & Rapeseed,Cotton 
+Gujarat,Morbi,Onion ,Wheat,Castor Seed
+Gujarat,Narmada,Wheat,Jowar,Cotton 
+Gujarat,Navsari,Onion ,Wheat,Rice
+Gujarat,Panchmahal,Wheat,Gram,Maize
+Gujarat,Patan,Wheat,Mustard & Rapeseed,Cotton 
+Gujarat,Porbandar,Onion ,Wheat,Groundnut
+Gujarat,Rajkot,Wheat,Onion,Cotton 
+Gujarat,Sabarkantha,Wheat,Mustard & Rapeseed,Cotton 
+Gujarat,Surat,Wheat,Jowar,Rice
+Gujarat,Surendranagar,Wheat,Onion,Cotton 
+Gujarat,Tapi,Wheat,Gram,Rice
+Gujarat,Vadodara,Wheat,Maize,Cotton 
+Gujarat,Valsad,Gram,Onion,Rice
+West Bengal,Bankura,Wheat,Potato,Jute
+West Bengal,Bardhman,Mustard,Potato,Jute
+West Bengal,Birbhum,Wheat,Potato,Jute
+West Bengal,Coochbehar,Potato,Maize,Jute
+West Bengal,Darjeeling,Potato,Urad,Jute
+West Bengal,Hooghly,Mustard,Potato,Jute
+West Bengal,Howrah,Mustard,Potato,Jute
+West Bengal,JalpaIguri,Mustard,Potato,Jute
+West Bengal,Maldah,Wheat,Potato,Jute
+West Bengal,Murshidabad,Wheat,Potato,Jute
+West Bengal,Nadia,Wheat,Potato,Jute
+West Bengal,Purulia,Wheat,Potato,Urad
+Maharashtra,Ahmednagar,Jowar,Gram,Maize
+Maharashtra,Akola,Gram,Wheat,Cotton
+Maharashtra,Amravati,Gram,Wheat,Cotton
+Maharashtra,Aurangabad,Jowar,Wheat,Cotton
+Maharashtra,Beed,Jowar,Wheat,Cotton
+Maharashtra,Bhandra,Wheat,Gram,Rice
+Maharashtra,Buldhana,Wheat,Gram,Cotton
+Maharashtra,Chandrapur,Wheat,Gram,Cotton
+Maharashtra,Dhule,Wheat,Maize,Cotton
+Maharashtra,Gadchiroli,Wheat,Gram,Cotton
+Maharashtra,Gondia,Wheat,Gram,Rice
+Maharashtra,Hingoli,Wheat,Gram,Cotton
+Maharashtra,Jalgaon,Gram,Wheat,Jowar
+Maharashtra,Jalna,Gram,Jowar,Cotton
+Maharashtra,Kolhapur,Jowar,Maize,Rice
+Maharashtra,Latur,Wheat,Gram,Jowar
+Maharashtra,Nagpur,Wheat,Gram,Cotton
+Maharashtra,Nanded,Wheat,Gram,Cotton
+Maharashtra,Nandurbar,Wheat,Jowar,Cotton
+Maharashtra,Nashik,Wheat,Gram,Bajra
+Maharashtra,Osmanabad,Jowar,Gram,Arhar
+Maharashtra,Palghar,Gram,Pulses,Rice
+Maharashtra,Parbhani,Gram,Jowar,Cotton
+Maharashtra,Pune,Wheat,Jowar,Rice
+Maharashtra,Raigad,Pulses,Rice,
+Maharashtra,Ratnagiri,Pulses,Rice,
+Maharashtra,Sangli,Jowar,Maize,Jowar
+Maharashtra,Satara,Jowar,Wheat,Rice
+Maharashtra,Sindhudurg,Maize,Pulses,Rice
+Maharashtra,Solapur,Jowar,Maize,Arhar
+Maharashtra,Thane,Gram,seasamum,Rice
+Maharashtra,Wardha,Wheat,Gram,Cotton
+Maharashtra,Washim,Wheat,Gram,Cotton
+Maharashtra,Yavatmal,Wheat,Gram,Cotton
+Punjab,Amritsar,Wheat,Sarson,Paddy
+Punjab,Barnala,Wheat,Barley,Paddy
+Punjab,Bathinda,Wheat,Sarson,Paddy
+Punjab,Faridkot,Wheat,Sarson,Paddy
+Punjab,F.G.Sahib,Wheat,Sarson,Paddy
+Punjab,Fazilka,Wheat,Sarson,Paddy
+Punjab,Ferozepur,Wheat,Sarson,Paddy
+Punjab,Gurdaspur,Wheat,Sarson,Sugarcane
+Punjab,Hoshiarpur,Wheat,Sarson,Sugarcane
+Punjab,Jalandhar,Wheat,Sarson,Sugarcane
+Punjab,Kapurthala,Wheat,Sarson,Paddy
+Punjab,Ludhiana,Wheat,Barley,Paddy
+Punjab,Mansa,Wheat,Sarson,Paddy
+Punjab,Moga,Wheat,Sarson,Paddy
+Punjab,Mohali,Wheat,Barley,Paddy
+Punjab,Pathankot,Wheat,Sarson,Sugarcane
+Punjab,Patiala,Wheat,Sarson,Paddy
+Punjab,Ropar,Wheat,Sarson,Sugarcane
+Punjab,Sangrur,Wheat,Barley,Paddy
+Punjab,Tarntarn,Wheat,Sarson,Paddy
